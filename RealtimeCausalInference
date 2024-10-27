@@ -1,0 +1,20 @@
+Causal Adaptive Neural System is Durai Rajamanickam's novel method for real time causal inference. 
+
+Real-time causal inference in dynamic environments is a significant
+challenge in machine learning, particularly in domains such as health-
+care, finance, and law. We introduce the Causal Adaptive Neural
+System (CANS), a novel framework that integrates external knowledge
+from knowledge graphs with adaptive learning mechanisms to perform
+real-time causal inference. CANS leverages a neural antenna mechanism
+for dynamic knowledge retrieval, an adaptive causal graph for modeling
+and updating causal relationships, and efficient computational methods
+inspired by Ramanujan’s mathematical techniques to optimize iterative
+computations in Bayesian updates and counterfactual reasoning. We ad-
+dress potential challenges in implementation complexity, knowledge qual-
+ity, explainability, scalability, and ethical considerations. Experimental
+results demonstrate significant improvements in accuracy, convergence
+speed, and computational efficiency compared to existing methods, high-
+lighting CANS’s potential for practical deployment across multiple do-
+mains.
+Causal Inference Knowledge Graphs Ramanujan Graphs Real-Time Systems
+Machine Learning Bayesian Updates Counterfactual Reasoning
